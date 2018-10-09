@@ -27,7 +27,7 @@ but we are going to explore build triggers in Google Cloud Platform instead.
 
 ### Build triggers
 1. Go to cloud console: find **Cloud Build** in the left side menu (under tools).
-If you are asked to enable the Container Builder API, do so.
+If you are asked to en able the Container Builder API, do so.
 2. Click *Create trigger*
 3. Choose Github as build source. Click *Continue*
 4. Select your fork as the repository and click *Continue*
