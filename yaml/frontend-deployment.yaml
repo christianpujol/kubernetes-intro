@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: gcr.io/kb-day/backend:c-frontend-f
+        image: gcr.io/kb-day/frontend:cv-frontend-f
         imagePullPolicy: Always
         ports:
         - containerPort: 8080

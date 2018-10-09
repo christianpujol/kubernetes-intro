@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: gcr.io/kb-day/backend:c-backend-g
+        image: gcr.io/kb-day/backend:cv-backend-g
         ports:
         - containerPort: 5000
